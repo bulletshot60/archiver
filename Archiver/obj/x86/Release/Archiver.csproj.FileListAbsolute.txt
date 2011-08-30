@@ -1,0 +1,10 @@
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Release\archiver.exe
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Release\archiver.pdb
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Release\NDesk.Options.dll
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.exe
+C:\Users\Ethan Travis McGee\Documents\Visual Studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.pdb
+C:\Users\Ethan Travis McGee\Desktop\m33_util\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.exe
+C:\Users\Ethan Travis McGee\Desktop\m33_util\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.pdb
+C:\Users\bulletshot60\Desktop\m33_util\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.exe
+C:\Users\bulletshot60\Desktop\m33_util\M33 Log Archiver\M33 Log Archiver\obj\x86\Release\archiver.pdb

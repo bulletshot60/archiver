@@ -1,0 +1,6 @@
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Debug\M33 Log Archiver.exe
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Debug\M33 Log Archiver.pdb
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\bin\Debug\NDesk.Options.dll
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Debug\M33 Log Archiver.exe
+c:\users\ethan travis mcgee\documents\visual studio 2010\Projects\M33 Log Archiver\M33 Log Archiver\obj\x86\Debug\M33 Log Archiver.pdb
