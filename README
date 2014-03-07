@@ -1,12 +1,12 @@
+#Archiver#
+
+##What is this?##
+
 The archiver utility was designed to make automatic log rotation simple and easy.
-The program is completely scriptable and everything is customizable.
 
-The program is a .NET 3.5 command line application with multiple switches available
-to provide for easy scritablity.  Run the program with the /? for more information.
+The program is a .NET 3.5 command line application with multiple switches available to provide for easy scritablity.  Run the program with the /? for more information.
 
-=================================================================================
-
-LICENSE
+##LICENSE##
 
 The MIT License (MIT)
 
